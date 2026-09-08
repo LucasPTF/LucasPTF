@@ -64,34 +64,66 @@ MINDSET    Always learning
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel,cloudflare,figma&theme=dark&perline=8" alt="Git, GitHub, VS Code, npm, Vite, Vercel, Cloudflare e Figma" />
 </div>
 
-## `03. PROJETOS_EM_DESTAQUE`
+## `03. PORTFÓLIO_VISUAL`
 
-<div align="center">
-  <a href="https://github.com/LucasPTF/meu-site-gpt">
-    <img width="49%" src="./assets/project-nordly.svg" alt="Nordly — ecommerce tech curado" />
-  </a>
-  <a href="https://github.com/LucasPTF/lojaads-pagina-vendas">
-    <img width="49%" src="./assets/project-lojaads.svg" alt="Workshop Raio-X L³ — LojaADS" />
-  </a>
-</div>
+<p align="center">
+  Uma seleção de landing pages reais — clique nas imagens para explorar cada experiência publicada.
+</p>
 
-<div align="center">
-  <a href="https://github.com/LucasPTF/teneci-modes-pagina-vendas">
-    <img width="49%" src="./assets/project-teneci.svg" alt="Protocolo Adeus Mente Acelerada" />
-  </a>
-  <a href="https://github.com/LucasPTF/jesiel-projeto-de-decisao">
-    <img width="49%" src="./assets/project-jesiel.svg" alt="Projeto de Decisão" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/LucasPTF/roger">
-    <img width="49%" src="./assets/project-roger.svg" alt="Projeto Você S.A." />
-  </a>
-  <a href="https://github.com/LucasPTF/marcelo-miranda">
-    <img width="49%" src="./assets/project-marcelo.svg" alt="Comunicação Funcional Homem/Cão" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://lojaads-pagina-vendas.vercel.app">
+        <img src="./assets/portfolio/lojaads.png" width="100%" alt="Página da LojaADS — Workshop Raio-X L³" />
+      </a>
+      <h3 align="center">LojaADS · Raio-X L³</h3>
+      <p align="center">Visual corporativo premium para gestores de lojas.</p>
+      <p align="center"><code>React</code> · <code>TypeScript</code> · <code>Vite</code></p>
+      <p align="center">
+        <a href="https://lojaads-pagina-vendas.vercel.app">◉ Ver página</a> ·
+        <a href="https://github.com/LucasPTF/lojaads-pagina-vendas">⌘ Ver código</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://teneci-modes-pagina-vendas.vercel.app">
+        <img src="./assets/portfolio/teneci.png" width="100%" alt="Página de Teneci Modes — Protocolo Adeus Mente Acelerada" />
+      </a>
+      <h3 align="center">Teneci Modes · Mente Acelerada</h3>
+      <p align="center">Direção editorial acolhedora para workshop online.</p>
+      <p align="center"><code>Next.js</code> · <code>React</code> · <code>TypeScript</code></p>
+      <p align="center">
+        <a href="https://teneci-modes-pagina-vendas.vercel.app">◉ Ver página</a> ·
+        <a href="https://github.com/LucasPTF/teneci-modes-pagina-vendas">⌘ Ver código</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://adriana-salto-pagina-vendas.vercel.app">
+        <img src="./assets/portfolio/adriana.png" width="100%" alt="Página de Adriana Salto — Rota da Aprovação 40+" />
+      </a>
+      <h3 align="center">Adriana Salto · Aprovação 40+</h3>
+      <p align="center">Identidade marcante em verde profundo e terracota.</p>
+      <p align="center"><code>React</code> · <code>TypeScript</code> · <code>Vite</code></p>
+      <p align="center">
+        <a href="https://adriana-salto-pagina-vendas.vercel.app">◉ Ver página</a> ·
+        <a href="https://github.com/LucasPTF/adriana-salto-pagina-vendas">⌘ Ver código</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://isabella-crusciol-hof-do-zero.vercel.app">
+        <img src="./assets/portfolio/isabella.png" width="100%" alt="Página de Isabella Crusciol — HOF do Zero" />
+      </a>
+      <h3 align="center">Isabella Crusciol · HOF do Zero</h3>
+      <p align="center">Estética minimalista e sofisticada para educação em HOF.</p>
+      <p align="center"><code>React</code> · <code>TypeScript</code> · <code>Vite</code></p>
+      <p align="center">
+        <a href="https://isabella-crusciol-hof-do-zero.vercel.app">◉ Ver página</a> ·
+        <a href="https://github.com/LucasPTF/isabella-crusciol-hof-do-zero">⌘ Ver código</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/LucasPTF?tab=repositories">
