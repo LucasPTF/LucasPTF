@@ -67,15 +67,27 @@ MINDSET    Always learning
 ## `03. PROJETOS_EM_DESTAQUE`
 
 <div align="center">
-  <a href="https://github.com/LucasPTF/jesiel-projeto-de-decisao">
-    <img width="49%" src="./assets/project-jesiel.svg" alt="Projeto de Decisão" />
+  <a href="https://github.com/LucasPTF/meu-site-gpt">
+    <img width="49%" src="./assets/project-nordly.svg" alt="Nordly — ecommerce tech curado" />
   </a>
-  <a href="https://github.com/LucasPTF/roger">
-    <img width="49%" src="./assets/project-roger.svg" alt="Projeto Você S.A." />
+  <a href="https://github.com/LucasPTF/lojaads-pagina-vendas">
+    <img width="49%" src="./assets/project-lojaads.svg" alt="Workshop Raio-X L³ — LojaADS" />
   </a>
 </div>
 
 <div align="center">
+  <a href="https://github.com/LucasPTF/teneci-modes-pagina-vendas">
+    <img width="49%" src="./assets/project-teneci.svg" alt="Protocolo Adeus Mente Acelerada" />
+  </a>
+  <a href="https://github.com/LucasPTF/jesiel-projeto-de-decisao">
+    <img width="49%" src="./assets/project-jesiel.svg" alt="Projeto de Decisão" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/LucasPTF/roger">
+    <img width="49%" src="./assets/project-roger.svg" alt="Projeto Você S.A." />
+  </a>
   <a href="https://github.com/LucasPTF/marcelo-miranda">
     <img width="49%" src="./assets/project-marcelo.svg" alt="Comunicação Funcional Homem/Cão" />
   </a>
@@ -83,7 +95,7 @@ MINDSET    Always learning
 
 <div align="center">
   <a href="https://github.com/LucasPTF?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORAR_TODOS_OS_PROJETOS-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explorar todos os projetos" />
+    <img src="https://img.shields.io/badge/EXPLORAR_PORTFÓLIO_COMPLETO-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explorar portfólio completo" />
   </a>
 </div>
 
@@ -103,8 +115,8 @@ SYSTEM: evolução contínua habilitada_
 ## `05. TELEMETRIA_GITHUB`
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasPTF&theme=tokyonight&animation=load" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasPTF&theme=tokyonight&animation=load" alt="Linguagens mais utilizadas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasPTF&theme=tokyonight&animation=load&v=2" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasPTF&theme=tokyonight&animation=load&v=2" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="center">
@@ -112,7 +124,7 @@ SYSTEM: evolução contínua habilitada_
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasPTF&theme=tokyonight&animation=draw" alt="Gráfico de atividade no GitHub" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasPTF&theme=tokyonight&animation=draw&v=2" alt="Gráfico de atividade no GitHub" />
 </div>
 
 ## `06. TROPHY_VAULT`

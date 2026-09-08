@@ -1,0 +1,20 @@
+<svg width="580" height="190" viewBox="0 0 580 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Workshop Raio-X L³ — LojaADS</title>
+  <desc id="desc">Página de vendas construída com React, TypeScript e Vite</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="580" y2="190"><stop stop-color="#A855F7"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+    <style>.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:'JetBrains Mono',Consolas,monospace}</style>
+  </defs>
+  <rect x="1" y="1" width="578" height="188" rx="16" fill="#0D1117" stroke="url(#border)" stroke-opacity=".85" stroke-width="2"/>
+  <rect x="24" y="24" width="58" height="58" rx="14" fill="#A855F7" fill-opacity=".1" stroke="#A855F7"/>
+  <circle cx="53" cy="53" r="15" stroke="#E879F9" stroke-width="2.5"/><path d="M53 43V63M43 53H63" stroke="#E879F9" stroke-width="2.5" stroke-linecap="round"/>
+  <text class="mono" x="104" y="43" fill="#C084FC" font-size="12" letter-spacing="2">FEATURED / 02</text>
+  <text class="sans" x="104" y="70" fill="#F0F6FC" font-size="20" font-weight="700">Workshop Raio-X L³</text>
+  <text class="sans" x="24" y="111" fill="#9DA7B3" font-size="14">Página de vendas para gestores de lojas, com</text>
+  <text class="sans" x="24" y="132" fill="#9DA7B3" font-size="14">múltiplos ângulos de campanha e foco em conversão.</text>
+  <rect x="24" y="151" width="57" height="24" rx="12" fill="#161B22"/><text class="mono" x="52.5" y="167" text-anchor="middle" fill="#C9D1D9" font-size="10">REACT</text>
+  <rect x="89" y="151" width="83" height="24" rx="12" fill="#161B22"/><text class="mono" x="130.5" y="167" text-anchor="middle" fill="#C9D1D9" font-size="10">TYPESCRIPT</text>
+  <rect x="180" y="151" width="48" height="24" rx="12" fill="#161B22"/><text class="mono" x="204" y="167" text-anchor="middle" fill="#C9D1D9" font-size="10">VITE</text>
+  <text class="mono" x="548" y="167" text-anchor="end" fill="#E879F9" font-size="12">OPEN ↗</text>
+</svg>
+
