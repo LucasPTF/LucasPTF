@@ -118,7 +118,7 @@ SYSTEM: evolução contínua habilitada_
 ## `06. TROPHY_VAULT`
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=LucasPTF&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Troféus do GitHub" />
+  <img width="100%" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=LucasPTF&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=8&rank=-%3F&row=1&column=3" alt="Troféus do GitHub" />
 </div>
 
 ## `07. CONTRIBUTION_STREAM`
