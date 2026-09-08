@@ -14,6 +14,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="System online" />
   <img src="https://img.shields.io/badge/FOCUS-FRONT--END-A855F7?style=for-the-badge&labelColor=0D1117" alt="Focus: Front-end" />
+  <a href="https://www.linkedin.com/in/lucas-sousa-302259222/">
+    <img src="https://img.shields.io/badge/OPEN_TO-WORK-22C55E?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=LucasPTF&label=PROFILE%20SCANS&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -34,6 +37,10 @@
         visual, performance, acessibilidade e clareza — do primeiro componente ao deploy.
       </p>
       <p>
+        Estou aberto a <strong>oportunidades como Desenvolvedor Front-end</strong>,
+        projetos freelance e colaborações com times que valorizam produto, design e resultado.
+      </p>
+      <p>
         <code>design + código + estratégia = experiência que entrega resultado</code>
       </p>
     </td>
@@ -43,7 +50,7 @@
 ROLE       Front-end Developer
 BASE       Brasil
 SPECIALTY  Landing Pages
-STATUS     Building
+STATUS     Open to work
 MINDSET    Always learning
       </pre>
     </td>
@@ -140,6 +147,7 @@ lucas@neon-core:~$ mission --status
 [>] Aprofundando Next.js, TypeScript e performance web
 [>] Refinando sistemas de UI, acessibilidade e motion
 [+] Explorando IA aplicada a produtos e experiências digitais
+[+] Disponível para vagas, projetos freelance e colaborações
 
 SYSTEM: evolução contínua habilitada_ 
 ```
@@ -173,7 +181,15 @@ SYSTEM: evolução contínua habilitada_
 
 ## `08. ESTABELECER_CONEXÃO`
 
+<p align="center">
+  <strong>Tem uma oportunidade ou projeto em mente?</strong><br />
+  Vamos conversar sobre produto, front-end e experiências digitais.
+</p>
+
 <div align="center">
+  <a href="https://www.linkedin.com/in/lucas-sousa-302259222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas_Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn de Lucas Sousa" />
+  </a>
   <a href="https://github.com/LucasPTF">
     <img src="https://img.shields.io/badge/GitHub-LucasPTF-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
