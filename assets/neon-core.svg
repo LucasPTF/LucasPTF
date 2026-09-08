@@ -1,0 +1,86 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas — Front-end Developer</title>
+  <desc id="desc">Interface futurista Neon Core com efeito animado de inicialização do sistema</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.52" stop-color="#0D1021"/>
+      <stop offset="1" stop-color="#090716"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="230" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(600 205) rotate(90) scale(250 570)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#090B12" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#45DFF5" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="bootClip"><rect x="132" y="84" width="936" height="270" rx="18"/></clipPath>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .scan { animation: scan 4.8s linear infinite; }
+      .pulse { animation: pulse 2.1s ease-in-out infinite; }
+      .boot1 { animation: boot 6s ease-out infinite; }
+      .boot2 { animation: boot 6s .45s ease-out infinite; opacity: 0; }
+      .boot3 { animation: boot 6s .9s ease-out infinite; opacity: 0; }
+      .title { animation: reveal 6s 1.25s ease-out infinite; opacity: 0; }
+      .cursor { animation: blink .8s steps(1) infinite; }
+      .dash { stroke-dasharray: 18 12; animation: dash 9s linear infinite; }
+      @keyframes scan { from { transform: translateY(-90px); } to { transform: translateY(500px); } }
+      @keyframes pulse { 0%,100% { opacity:.45; } 50% { opacity:1; } }
+      @keyframes boot { 0%,7% { opacity:0; transform:translateY(6px); } 12%,86% { opacity:1; transform:translateY(0); } 96%,100% { opacity:0; } }
+      @keyframes reveal { 0%,8% { opacity:0; } 14%,86% { opacity:1; } 96%,100% { opacity:0; } }
+      @keyframes blink { 0%,48% { opacity:1; } 49%,100% { opacity:0; } }
+      @keyframes dash { to { stroke-dashoffset:-300; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+
+  <path d="M24 105V48C24 34.745 34.745 24 48 24H105" stroke="url(#neon)" stroke-width="2"/>
+  <path d="M1095 24H1152C1165.25 24 1176 34.745 1176 48V105" stroke="url(#neon)" stroke-width="2"/>
+  <path d="M1176 315V372C1176 385.255 1165.25 396 1152 396H1095" stroke="url(#neon)" stroke-width="2"/>
+  <path d="M105 396H48C34.745 396 24 385.255 24 372V315" stroke="url(#neon)" stroke-width="2"/>
+
+  <rect x="68" y="48" width="1064" height="324" rx="20" fill="#090D18" fill-opacity="0.82" stroke="#26324A"/>
+  <path class="dash" d="M88 91H1112" stroke="url(#neon)" stroke-opacity="0.52"/>
+
+  <circle class="pulse" cx="101" cy="70" r="5" fill="#00E5FF" filter="url(#softGlow)"/>
+  <text class="mono" x="116" y="77" fill="#B8F7FF" font-size="16" font-weight="700" letter-spacing="3">NEON CORE // SYSTEM ONLINE</text>
+  <text class="mono" x="1098" y="77" fill="#66748D" font-size="13" text-anchor="end">BUILD 09.08.26</text>
+
+  <g clip-path="url(#bootClip)">
+    <rect class="scan" x="70" y="0" width="1060" height="72" fill="url(#neon)" opacity="0.055"/>
+  </g>
+
+  <g class="mono" font-size="14">
+    <text class="boot1" x="103" y="126" fill="#00E5FF">[ OK ] interface.modules loaded</text>
+    <text class="boot2" x="103" y="151" fill="#A78BFA">[ OK ] creative.engine synchronized</text>
+    <text class="boot3" x="103" y="176" fill="#C9D1D9">[ OK ] conversion.protocol active</text>
+  </g>
+
+  <g class="title" filter="url(#softGlow)">
+    <text class="mono" x="600" y="251" fill="url(#neon)" font-size="72" font-weight="800" letter-spacing="10" text-anchor="middle">LUCAS</text>
+  </g>
+  <text class="title mono" x="600" y="294" fill="#D7E1EF" font-size="22" font-weight="600" letter-spacing="7" text-anchor="middle">FRONT-END DEVELOPER</text>
+
+  <g class="mono" font-size="13">
+    <text x="103" y="344" fill="#66748D">root@lucas:~$</text>
+    <text x="228" y="344" fill="#D7E1EF">building digital experiences</text>
+    <rect class="cursor" x="475" y="331" width="9" height="16" fill="#00E5FF"/>
+    <text x="1098" y="344" fill="#66748D" text-anchor="end">STATUS: READY</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="418" rx="23" stroke="url(#neon)" stroke-opacity="0.35" stroke-width="2"/>
+</svg>
+

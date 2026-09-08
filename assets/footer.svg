@@ -1,0 +1,19 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Neon Core em modo standby</title>
+  <defs>
+    <linearGradient id="line" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#E879F9" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .signal { animation: signal 2.6s ease-in-out infinite; }
+      @keyframes signal { 0%,100% { opacity:.3; } 50% { opacity:1; } }
+    </style>
+  </defs>
+  <path d="M120 36H1080" stroke="url(#line)" stroke-width="2"/>
+  <circle class="signal" cx="568" cy="69" r="4" fill="#00E5FF"/>
+  <text class="mono" x="584" y="75" fill="#8B949E" font-size="15" letter-spacing="4">NEON CORE // STANDBY</text>
+</svg>
+
